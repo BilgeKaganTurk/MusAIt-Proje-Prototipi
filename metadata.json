@@ -1,0 +1,6 @@
+{
+  "name": "MüsAIt",
+  "description": "Hardware-less, crowdsourced, edge-AI street parking detection platform POC focusing on privacy by design (KVKK) and real-time mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
