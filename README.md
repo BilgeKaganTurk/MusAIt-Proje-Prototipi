@@ -4,6 +4,6 @@
 
 MusAIt HACKATHON UYGULAMA PROTOTİPİ
 
-Aşağıdaki linkten deneyimleyebilirsiniz:
+Asagidaki linkten deneyimleyebilirsiniz:
 
 https://ai.studio/apps/ab40eced-cc97-4ee2-b9ed-ba5f01d890ce
